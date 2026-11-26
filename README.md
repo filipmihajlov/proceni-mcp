@@ -1,5 +1,7 @@
 # ProCeni MCP server: grocery prices in North Macedonia
 
+[![ProCeni MCP connector](https://glama.ai/mcp/connectors/io.github.filipmihajlov/proceni/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.filipmihajlov/proceni)
+
 <!-- mcp-name: io.github.filipmihajlov/proceni -->
 
 Live grocery and drugstore prices from **17 chains in North Macedonia**, for Claude, ChatGPT, Cursor, VS Code and any other MCP client.
